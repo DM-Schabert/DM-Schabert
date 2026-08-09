@@ -1,6 +1,18 @@
 ## David Schabert
 
-MSc Data Engineering @ TUM · interested in how queries behave and how that behaviour can be reproduced · database engines in C++, benchmarking
+
+MSc Data Engineering & Analytics @ TUM (2025–2027), based in Munich.
+
+I'm interested in how queries behave and in how reliably that behaviour can be
+reproduced. Benchmark numbers are easy to produce and hard to trust: they move with
+the machine, the data, the plan the optimizer happened to pick that day. So I work
+from both ends. I build engines from scratch (LiteQueryDB, LiteOLAP) to see where
+execution time actually goes, and I measure query behaviour empirically (qsim) with
+pre-registered predictions and deterministic re-runs, so a result means something
+after the fact.
+
+**Currently:** looking for a working student role / internship in database
+internals or data infrastructure, from January 2027.
 
 
 ### Projects
@@ -13,6 +25,6 @@ MSc Data Engineering @ TUM · interested in how queries behave and how that beha
 
 ### Stack
 
-`C++17` `Python` `SQL` `PostgreSQL` · CMake, Catch2, pytest, Git
+`C++17` `Python` `SQL` `PostgreSQL` · CMake, pytest, Git
 
 📫 david_schabert@gmx.de · [LinkedIn](https://linkedin.com/in/david-schabert)
