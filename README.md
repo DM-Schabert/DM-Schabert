@@ -11,10 +11,6 @@ execution time actually goes, and I measure query behaviour empirically (qsim) w
 pre-registered predictions and deterministic re-runs, so a result means something
 after the fact.
 
-**Currently:** looking for a working student role / internship in database
-internals or data infrastructure, from January 2027.
-
-
 ### Projects
 
 | | |
